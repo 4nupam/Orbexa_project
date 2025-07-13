@@ -1,7 +1,7 @@
 export default function Nav() {
     return (
       <nav className="nav neo-shadow">
-      <div className="nav-content">
+      <div className="nav-content flex items-center justify-between w-full">
         <div className="logo">
       Orbexa
         </div>

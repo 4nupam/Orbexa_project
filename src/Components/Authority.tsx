@@ -2,7 +2,7 @@ export default function Authority() {
 return(
     <section className="section section-dark">
       <div className="container">
-        <h2 className="section-title">THE MINIDEV.PRO ADVANTAGE</h2>
+        <h2 className="section-title">ORBEXA ADVANTAGE</h2>
         <div style={{ display: "grid", gap: "2rem", maxWidth: "1000px", margin: "0 auto" }}>
 
           <div className="process-step neo-shadow">
